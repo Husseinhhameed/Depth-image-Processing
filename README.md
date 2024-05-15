@@ -32,11 +32,11 @@ This repository contains two Python scripts that demonstrate advanced techniques
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+Thanks again!
 
 
 ## Contact
 hossein.h.hameed@gmail.com
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License 
